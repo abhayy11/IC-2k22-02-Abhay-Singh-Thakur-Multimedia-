@@ -1,4 +1,4 @@
-Audio Analyzer
+ # Audio Analyzer
 A small script that prints a metadata report for an audio file: file info, duration/bitrate, audio stream details, and any embedded tags (title, artist, etc.).
 
 Requirements
